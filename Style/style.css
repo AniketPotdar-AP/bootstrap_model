@@ -1,0 +1,257 @@
+html {
+    overflow-x: hidden;
+}
+
+body {
+    margin-left: -8%;
+}
+
+#button {
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #e8e8e8;
+    border-radius: 10px;
+}
+
+.row {
+    display: flex;
+    margin-right: -15px;
+    margin-left: 10px;
+    justify-content: center;
+}
+
+ul {
+    list-style-type: none;
+}
+
+#context {
+    margin-top: 16%;
+    margin-left: 13%;
+}
+
+#appleLogo {
+    background-color: black;
+}
+
+#img1 {
+    display: flex;
+    margin-left: auto;
+    margin-right: 2%;
+}
+
+.step1 {
+    margin-top: 50%;
+}
+
+#div2 {
+    margin-left: 19%;
+    margin-top: 4%;
+    width: 39%;
+}
+
+#div3 {
+    margin-left: 19%;
+    margin-top: 4%;
+    width: 39%;
+}
+
+.div4 {
+    margin-left: 10%;
+    width: 39%;
+}
+
+.d-flex mb-3 {
+    margin-top: 10%;
+}
+
+#anch1 {
+    font-size: 150%;
+    margin-left: 2%;
+}
+
+#anch2 {
+    margin-top: 30%;
+    width: 30%;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    flex: 6;
+    margin-left: 3%;
+}
+
+#anch3 {
+    display: flex;
+    flex-direction: column;
+    flex: 6;
+    margin-top: 30%;
+    text-align: center;
+    width: 30%;
+    margin-left: 25%;
+}
+
+.text-left {
+    margin-right: -5%;
+}
+
+.decoration {
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+#applogo {
+    font-size: 229%;
+    margin-bottom: 5%;
+    margin-right: 2%;
+}
+
+#maindiv4 {
+    margin-top: 10%;
+    padding-bottom: 7%;
+}
+
+#info {
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 10%;
+}
+
+#ptag {
+    width: 100%;
+}
+
+#subscribe {
+    display: flex;
+    justify-content: space-evenly;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 15px;
+    width: 85%;
+    padding: 1%;
+    outline: none;
+    margin-top: 4%;
+    margin-bottom: 4%;
+    border: none;
+    text-decoration: underline;
+    color: white;
+    background-color: #025492;
+    font-size: 150%;
+}
+
+#heading2 {
+    text-align: center;
+    width: 91%;
+    font-size: 149%;
+    margin-left: 5%;
+}
+
+.heading {
+    color: #025492;
+}
+
+.gooicon2 {
+    display: flex;
+    justify-content: center;
+}
+
+#mainbtn1 {
+    width: 22%;
+    background-color: black;
+}
+
+#mainbtn2 {
+    width: 22%;
+    background-color: black;
+}
+
+.google-logo {
+    width: 200px;
+    margin-left: -2%;
+}
+
+.apple-logo {
+    width: 169px;
+    margin-left: 10px;
+}
+
+.apple-logo2 {
+    display: flex;
+    width: 189px;
+    flex-direction: row;
+    height: 59px;
+    margin-top: 0.7%;
+}
+
+.google-logo3 {
+    width: 85%;
+}
+
+.apple-logo3 {
+    width: 75%;
+    margin-left: 5%;
+}
+
+.google-logo2 {
+    width: 18%;
+}
+
+#logo-wrapper {
+    display: flex;
+    justify-content: center;
+}
+
+#col2 {
+    margin-left: 2%;
+}
+
+#footer {
+    background: #1e252d;
+    color: white;
+    padding-top: 1%;
+}
+
+#para2 {
+    margin-bottom: -20%;
+}
+
+.diff {
+    color: #ccc;
+}
+
+.footer1 {
+    margin-left: 1%;
+}
+
+.para {
+    width: 100%;
+}
+
+#lastimg {
+    width: 25%;
+}
+
+#top {
+    margin-top: -12%;
+    margin-left: 58%;
+    font-size: 74%;
+}
+
+#last {
+    display: flex;
+    justify-content: center;
+    background-color: #1e252d;
+    width: 105%;
+    margin-left: -4%;
+    padding-top: 1%;
+    color: white;
+    border-top: 1px solid #ccc;
+}
+
+.lastp {
+    margin-left: 3%;
+}
+
+#down {
+    display: flex;
+    flex-direction: column;
+}
